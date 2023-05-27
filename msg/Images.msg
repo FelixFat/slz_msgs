@@ -1,0 +1,4 @@
+sensor_msgs/Image forward_mask
+sensor_msgs/Image direct_mask
+sensor_msgs/Image slz_mask
+sensor_msgs/Image slp_mask
